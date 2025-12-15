@@ -1,0 +1,23 @@
+# Sudoku Graph Coloring - Requirements
+# Core dependencies for running the project
+
+# For core functionality (no external dependencies required for algorithms)
+# The project is implemented in pure Python
+
+# For visualization (optional but recommended)
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# For running tests
+pytest>=7.0.0
+
+# For type checking (optional)
+mypy>=0.981
+
+# For code formatting (optional)
+black>=22.0.0
+flake8>=5.0.0
+
+# For Jupyter notebook support (optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
