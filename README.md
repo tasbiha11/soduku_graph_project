@@ -1,4 +1,4 @@
-# Sudoku Solver using Graph Coloring
+# Sudoku Solver using Graph Coloring a project for Discrete Mathematics Course 2019
 
 A comprehensive implementation of Sudoku solving algorithms using graph theory and constraint satisfaction techniques. This project demonstrates how Sudoku can be modeled as a graph coloring problem and solved using various algorithms.
 
